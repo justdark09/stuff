@@ -1,0 +1,6 @@
+
+
+Add bird movement (relative to velocity, ex. when the bird goes up the bird points up,
+                  and when the bird goes down, the bird points down)
+
+Add a ground to the gameplay
